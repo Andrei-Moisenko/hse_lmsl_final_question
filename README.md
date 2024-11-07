@@ -1,6 +1,3 @@
-# hse_lmsl_final_question
-Answer to the final question after LMSL1 final project submission.
-
 # Question
 _Given map-reduce sequence of tasks, what would be the algorithm to convert it into Spark, can one improve it in speed?_
 
